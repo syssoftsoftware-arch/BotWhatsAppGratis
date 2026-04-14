@@ -1,4 +1,4 @@
-# 🤖 WhatsApp Bot
+# 🤖 WhatsApp Bot Python 
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Selenium](https://img.shields.io/badge/Selenium-4.0+-green.svg)
