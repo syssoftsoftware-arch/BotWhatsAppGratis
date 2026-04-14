@@ -1,0 +1,31 @@
+{
+  "nome_da_empresa": "TESTE",
+  "atendentes_humanos": [
+    {
+      "nome": "Beatriz",
+      "numero": "5511912345678",
+      "setor": "DP / Benefícios"
+    },
+    {
+      "nome": "Juliana",
+      "numero": "5511912345678",
+      "setor": "Recrutamento"
+    },
+    {
+      "nome": "Kadja",
+      "numero": "5511912345678",
+      "setor": "Geral"
+    }
+  ],
+  "menu_principal": {
+    "1": "📄 Consultar Holerites",
+    "2": "⏰ Marcação de Ponto",
+    "3": "📢 Avisos e Comunicados",
+    "4": "👤 Falar com Especialista RH"
+  },
+  "respostas": {
+    "boas_vindas": "Bem-vindo(a) ao Canal de Atendimento Digital*! 🏢\n\nSou seu assistente virtual e estou aqui para agilizar seu acesso às informações.",
+    "aguarde": "Com certeza! Vou te encaminhar para os nossos especialistas agora mesmo. Clique em um dos contatos abaixo para iniciar a conversa: 👇",
+    "erro": "⚠️ *Opção Inválida*\n\nPor favor, digite apenas o *número* correspondente à opção desejada para que eu possa te ajudar:"
+  }
+}
